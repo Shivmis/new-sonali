@@ -27,7 +27,7 @@ class Helper(object):
 
 ❍ /ask [ǫυєʀʏ] : sєᴧʀᴄʜ ᴛʜє ᴧηʏ ᴛʏᴘє ǫυєsᴛɪση
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -42,7 +42,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ʜɪɴᴅɪ sᴏɴɢs```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
     HELP_03 = '''```
@@ -50,14 +50,14 @@ class Helper(object):
 **❖ sᴇɴᴅ ᴡʜɪsᴘᴇʀ ᴍᴇssᴀɢᴇ ❖**
 
 ```
- єxᴧϻᴘʟє : @Sonali_Music_bot @ll_UNLUCKY_PERSON_ll I love You 😘
+ єxᴧϻᴘʟє :  @shivang_mishra_op I love You 😘
 ```
 
 <u>**❖ ᴛєxᴛ ᴛσ ᴠσɪᴄє**</u>
 
 **❍ /tts : [ᴛєxᴛ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll) **
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op) **
 '''
 
 
@@ -70,7 +70,7 @@ class Helper(object):
 ❍ /groupinfo : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ ɪηғσ `ᴇx :- /groupinfo ɢʀᴏᴜᴘ ᴜsᴇʀɴᴀᴍᴇ`
 ❍ /status : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ sᴛᴧᴛᴜs
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -83,7 +83,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /font Alpha Baby```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll) **
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op) **
 '''
 
     HELP_06 = '''```
@@ -91,7 +91,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -106,7 +106,7 @@ class Helper(object):
 ❍ /shayari ➠ ʀᴧηᴅσϻ sʜᴧʏᴧʀɪ ᴛᴧɢ 
 ❍ /shstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /cute ➠ ᴄʜєᴄᴋ ʏσυʀ ᴄυᴛєηєss.
 ❍ /love ➠ ᴧᴅᴅ ᴛᴡᴏ ηᴧϻєs ᴧηᴅ sєє ʟσᴠᴇ ᴘσssɪʙɪʟɪᴛʏ !! `ʟɪᴋᴇ ʀᴧᴊᴧ + sσηᴧ.`
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -131,7 +131,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -139,11 +139,11 @@ class Helper(object):
 ❖ sᴛɪᴄᴋєʀs ᴄσϻϻᴧηᴅꜱ ❖```
 **❍ /packkang ➠ ᴄʀєᴧᴛєs ᴧ ᴘᴧᴄᴋ σғ sᴛɪᴄᴋєʀs ғʀσϻ ᴧ σᴛʜєʀ ᴘᴧᴄᴋ
 ❍ /stickerid ➠ ɢєᴛs ᴛʜє sᴛɪᴄᴋєʀ ɪᴅ σғ ᴧ sᴛɪᴄᴋєʀ
-❍ /mmf ➠ ʀєᴘʟʏ ᴧηʏ ᴘɪᴄ & ɢɪᴠє ᴛєxᴛ `єx :- /mmf alpha`
+❍ /mmf ➠ ʀєᴘʟʏ ᴧηʏ ᴘɪᴄ & ɢɪᴠє ᴛєxᴛ `єx :- /mmf `
 ❍ /kang ➠ ʀєᴘʟʏ ᴧηʏ sᴛɪᴄᴋєʀ & ᴄʀєᴀᴛє ʏσᴜʀ sᴛɪᴄᴋєʀ ᴘᴧᴄᴋ
 ❍ /st ➠ ғɪηᴅ ᴏʀɪɢɪηᴧʟ sᴛɪᴄᴋєʀ.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -161,7 +161,7 @@ class Helper(object):
 ❍ /truth [sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ]
 ❍ /dare : [sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -172,7 +172,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -184,7 +184,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -229,7 +229,7 @@ class Helper(object):
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
     HELP_15 = '''```
@@ -238,7 +238,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -255,7 +255,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -285,7 +285,7 @@ class Helper(object):
 ❍ /unbanall ➠ ᴜηʙᴧη ᴧʟʟ ʙᴧη ϻєϻʙєʀs
 ❍ /unpinall ➠ ᴜηᴘɪη ᴧʟʟ ᴘɪη ᴍєssᴧɢᴇ**
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -295,7 +295,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -307,7 +307,7 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -318,7 +318,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -333,7 +333,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -344,21 +344,21 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
     HELP_23 = '''```
 ❖ sᴧηɢ ϻᴧᴛᴧ ᴄσϻϻᴧηᴅ ❖```
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
     HELP_24 = '''```
 ❖ ᴛʀᴧηsʟᴧᴛєs ❖```
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -367,9 +367,9 @@ class Helper(object):
 **❍ /git ➠ ғɪηᴅ ʀєᴘᴏ ɢɪᴛ ᴜsєʀηᴧϻє
 ❍ /allrepo ➠ sєє ᴧʟʟ ʀєᴘᴏ ᴛʜʀσᴜɢʜ ɢɪᴛ ᴜsєʀηᴧϻє**
 
-`єxᴧϻᴘʟє : /git TEAMPURVI`
+`єxᴧϻᴘʟє : /git `
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
 
 
@@ -380,7 +380,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)**
 '''
     HELP_PROMOTION = '''
 **─────────────────────────
@@ -397,7 +397,7 @@ class Helper(object):
 ─────────────────────────
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+ ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє...
 ─────────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)
+❍ ᴄσηᴛᴧᴄᴛ - [𝙍 𝙊 𝘽 𝜩 𝙍 𝙏](https://t.me/shivang_mishra_op)
 ─────────────────────────**
 '''
     HELP_ABOUT = '''
@@ -406,11 +406,11 @@ class Helper(object):
 ─────────────────────────
        ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ─────────────────────────
-╭⎋ [ϻᴧʏᴧ ꭙ ϻυsɪᴄ](https://t.me/@MayaMusicRobot) : ᴧʟɪᴠє 
+╭⎋ [𝚲꯭꯭𝐚𝐑𝐚𝐃𝐡𝐘𝐚 ✗ ❛𝚳𝐮𝐬𝐢𝐜🍷](https://t.me/@AaradhyaRobot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
        
-╭⎋ [ᴘᴜʀᴠɪ ꭙ ϻυsɪᴄ](https://t.me/PurviMusicRobot) : ᴧʟɪᴠє 
+╭⎋ [𝚲꯭꯭𝐚𝐑𝐚𝐃𝐡𝐘𝐚 ✗ ❛𝚳𝐮𝐬𝐢𝐜🍷](https://t.me/Aaradhyamusicbot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
@@ -422,7 +422,7 @@ class Helper(object):
 ─────────────────────────
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 10 ᴊᴀɴ 2025 
 ─────────────────────────
-❍ 𝐏ᴏᴡєʀєᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)
+❍ 𝐏ᴏᴡєʀєᴅ 𝖡ʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/shivang_mishra_op)
 ─────────────────────────**
 '''
     HELP_ALLBOT = '''
@@ -439,7 +439,7 @@ class Helper(object):
 ─────────────────────────
 ❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ᴘᴜʀᴠɪ-ʙσᴛs](https://t.me/PURVI_SUPPORT)
 ❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ᴘᴜʀᴠɪ-ᴜᴘᴅᴧᴛєs](https://t.me/PURVI_UPDATES)
-❖ ʙᴏᴛ σᴡηєʀ ➥ [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/ll_ALPHA_BABY_lll)
+❖ ʙᴏᴛ σᴡηєʀ ➥ [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/shivang_mishra_op)
 ❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](github.com/TEAMPURVI)
 ─────────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
