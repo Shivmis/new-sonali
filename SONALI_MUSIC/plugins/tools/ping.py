@@ -35,7 +35,7 @@ async def make_carbon(code):
 @app.on_message(filters.command("ping", prefixes=["/"]) & ~BANNED_USERS)
 @language
 async def ping_com(client, message: Message, _):
-    PING_IMG_URL = "https://files.catbox.moe/qu3psi.jpg"
+    PING_IMG_URL = "https://graph.org/file/bb04aefaa93c936da42d4-64d335f2a4eaeed0f0.jpg"
     captionss = "**ᴘɪɴɢɪɴɢ ᴏᴜʀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ.**"
     response = await message.reply_photo(PING_IMG_URL, caption=(captionss))
     await asyncio.sleep(1)
